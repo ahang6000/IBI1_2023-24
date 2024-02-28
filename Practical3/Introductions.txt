@@ -1,5 +1,6 @@
 Hello. 
 My name is Zhaochenghang.
-I like drinking tea and eating hotpot.
+I am an anime lover!
+My favourite anime is Yurucamp.
 I am enjoying teaching IBI1 in person again 
 I am happy that I can push my repo from Visual Studio Code to GitHub
