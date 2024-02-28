@@ -1,15 +1,15 @@
 <<<<<<< HEAD
-I like 1
-I like 3
-I like 4
+I like death
+I like survial
+I like everything
 =======
-I don't like 1
+I don't like death
 >>>>>>> Nadeshiko
-I like 5
-I like 6
-I like 7
-I like 8
-I like 9
+I like sand
+I like showers
+I like gift
+I like happiness
+I like sparkles
 I like nothing
 <<<<<<< HEAD
 I like very much my family
