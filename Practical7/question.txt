@@ -1,0 +1,8 @@
+Question: How has the DALYs changed in the Japan over time?
+30-37
+Answer: the relationship was shown in the figure, we found negative correlation between the DALYs and the time.
+Discussion:
+The negative correlation between DALYs and years in Japan suggests that as time progresses, the overall health status of the population is improving, and the disease burden is decreasing.
+This typically reflects advancements in healthcare, public health initiatives, lifestyle changes, and better environmental conditions, which contribute to a reduction in disease incidence and mortality rates, and an extension of life expectancy with better quality of life. 
+In a developed country like Japan, such improvements are often more pronounced due to its sophisticated healthcare system, high health awareness, and favorable socioeconomic conditions.
+In essence, the negative correlation indicates positive progress in enhancing the health and well-being of the population over time.
