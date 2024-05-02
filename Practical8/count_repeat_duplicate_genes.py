@@ -22,7 +22,8 @@ if dp=="GTCTGT":
             GTCTGT=re.findall(r"GTCTGT",gene_seq)
             gene_name +="  GTCTGT number: "
             gene_name += str(len(GTCTGT))
-            duplicate_genes.append((gene_name, gene_seq))
+            if int(len(GTCTGT))!=0:
+                duplicate_genes.append((gene_name, gene_seq))
         gene_name = re.findall(r" gene:(.+?) ",line)
         gene_name = gene_name[0]
         gene_description = line.strip('>\n').split(' ')
@@ -45,7 +46,8 @@ elif dp=="GTGTGT":
             GTGTGT=re.findall(r"GTGTGT",gene_seq)
             gene_name +="  GTGTGT number: "
             gene_name += str(len(GTGTGT))
-            duplicate_genes.append((gene_name, gene_seq))
+            if int(len(GTGTGT))!=0:
+                duplicate_genes.append((gene_name, gene_seq))
         gene_name = re.findall(r" gene:(.+?) ",line)
         gene_name = gene_name[0]
         gene_description = line.strip('>\n').split(' ')
