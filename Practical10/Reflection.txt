@@ -1,0 +1,6 @@
+This practical was a valuable learning experience. I gained new skills and knowledge in building and implementing SIR models.
+I learned how to translate real-world problems into probabilistic models by defining population groups and transitions. This made me realize that even simple models can yield meaningful results.
+In terms of coding, I strengthened my proficiency in using libraries like NumPy and Matplotlib. I gained experience in creating and manipulating arrays, as well as generating and visualizing time-series data.
+I particularly enjoyed implementing the two-dimensional spatial SIR model. This required critical thinking about simulating disease spread on a spatial grid. Seeing the disease propagation process unfold in a spatial context was very satisfying.
+Throughout the practical, I learned how to handle probabilistic models and appreciate the inherent randomness in these types of models.
+Overall, this practical has given me a deeper insight into disease modelling. I acquired both programming skills and the ability to translate real-world problems into solvable models. These experiences will have a positive impact on my future research and work.
