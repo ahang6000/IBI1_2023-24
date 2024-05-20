@@ -1,0 +1,19 @@
+The alignment score and percentage of identical amino acids for each of the three comparisons are as follows:
+
+1. Human vs. Mouse:
+   - Percentage identity (PI): 92.54%
+   - Alignment score: 3137.0
+
+2. Human vs. Rat:
+   - Percentage identity (PI): 91.75%
+   - Alignment score: 3107.0
+
+3. Mouse vs. Rat:
+   - Percentage identity (PI): 96.83%
+   - Alignment score: 3261.0
+
+Based on the results, the sequences of mouse and rat are most closely related, with the highest percentage identity (96.83%) and alignment score (3261.0) between the two rodent species.
+
+Comparing the human sequence to the two rodent species, the data shows that the human sequence is more similar to the mouse sequence than the rat sequence. The percentage identity between human and mouse (92.54%) is higher than the percentage identity between human and rat (91.75%), and the alignment score between human and mouse (3137.0) is also higher than the alignment score between human and rat (3107.0).
+
+Therefore, based on the data analyzed here, the mouse appears to be a better model organism for studying this gene in humans compared to the rat, as the mouse sequence is more closely related to the human sequence.
