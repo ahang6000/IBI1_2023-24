@@ -1,11 +1,12 @@
-#define variables
-cd=5
-hd=1
-#cd=>cell density, hd=holiday days
-#use for loop to adding up days
-while cd<=90:
-	hd+=1
-	cd=2*cd
-hd=str(hd)
-#output the answer
-print("on the "+hd+" day the cell density goes over 90%, which is the maximum number of days you can have a holiday from lab ")
+#initiate the cell density ad 5
+cell_density=5
+#Set the starting day=1
+day=0
+#when the density hasn't reached 90, implement the steps below everytime
+while cell_density<=90:
+    #   doubles the density
+    cell_density=cell_density*2
+    #   add 1 to the day number
+    day=day+1
+#at last output the day
+print("On day",day,"the cell density goes over 90%, which means you have",day-1,"free days to enjoy your holiday")
