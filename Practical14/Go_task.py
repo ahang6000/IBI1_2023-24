@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import xml.sax
 from datetime import datetime
 
-#define functions using DOM and SAX
+#define functions using DOM
 def parse_DOM(file_path):
     start_time = datetime.now()
     DOMTree = xml.dom.minidom.parse(file_path)
@@ -23,6 +23,7 @@ def parse_DOM(file_path):
     print(f"Time taken to parse XML using DOM: {time_taken}")
     return total
 
+#define functions using SAX
 def parse_SAX(file_path):
     start_time = datetime.now()
     namelist = []
@@ -61,6 +62,7 @@ def parse_SAX(file_path):
     print(f"Time taken to parse XML using SAX: {time_taken}")
     return total
 
+#read the file (modifing the pathway is allowed)
 file_path = 'D:\IBI_note\IBI1_2023-24\IBI1_2023-24\Practical14\go_obo.xml'
 total_DOM = parse_DOM(file_path)
 total_SAX = parse_SAX(file_path)
